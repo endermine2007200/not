@@ -1,0 +1,2 @@
+language = "bash"
+run = "cd my-video && npm start & python ./server.js"
